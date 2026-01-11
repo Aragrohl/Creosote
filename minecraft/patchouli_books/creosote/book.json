@@ -1,0 +1,8 @@
+{
+    "name": "Creosote Almanac",
+    "landing_text": "Welcome to Creosote!$(br2)This short almanac should acquaint you with the basics. As to better enjoy the pack.",
+    "version": 1,
+    "creative_tab": "minecraft:tools_and_utilities",
+    "use_resource_pack": true,
+    "pamphlet": "true"
+}
