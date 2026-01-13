@@ -1,4 +1,3 @@
-/minecraft/journeymap
 /minecraft/logs
 /minecraft/musicbox
 /minecraft/.mixin.out/class/net/minecraft/world/entity/LivingEntity.class
@@ -20,3 +19,4 @@ minecraft/usercache.json
 minecraft/usernamecache.json
 /minecraft/config/jei/world/local
 /minecraft/config/jei/world/local
+/minecraft/journeymap/data
