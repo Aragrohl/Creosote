@@ -54,6 +54,10 @@
   "cslcrops": {
     "temp_data": true
   },
+  "exposure": {
+    "lightroom": true,
+    "photograph_frame": true
+  },
   "immersiveengineering": {
     "multiblock_icon": true
   },
