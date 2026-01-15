@@ -1,4 +1,4 @@
-filename = 'cyber_ware_port-1.5-hf1.jar'
+filename = 'cyber_ware_port-1.5-hf2.jar'
 name = 'CyberWare 1.20.1 Port'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '0621b606375d94ae82b55951fe54dd82ed7ae4ff'
+hash = 'b0647130540695df3d35ca724883cc1d71520e5f'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 7448772
+file-id = 7449190
 project-id = 1401640
