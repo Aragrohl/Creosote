@@ -265,7 +265,7 @@ ServerEvents.recipes(event => {
         temperature: 1100
     })
 
-    //Cyberware change katana recipe as it conflicts with vanilla iron sword?
+    //Steel is cooler than iron
     event.remove({ id: 'cyber_ware_port:katana' })
     event.shaped('cyber_ware_port:katana',
                  [

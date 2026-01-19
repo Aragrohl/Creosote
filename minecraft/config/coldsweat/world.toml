@@ -78,7 +78,14 @@
 	    ["minecraft:wooded_badlands", 80, 108, "F", -5],
 	    ["minecraft:eroded_badlands", 88, 120, "F", -5],
 	    ["minecraft:deep_dark", 63, 63, "F"],
-	    ["minecraft:dripstone_caves", "disable"]
+	    ["minecraft:dripstone_caves", "disable"],
+	    ["traverse:coniferous_forest", 48, 62, "F"],
+	    ["traverse:snowy_coniferous_forest", 8, 38, "F", -15],
+	    ["traverse:woodlands", 59, 82, "F"],
+	    ["traverse:desert_shrubland", 48, 105, "F"],
+	    ["traverse:autumnal_woods", 59, 82, "F"],
+	    ["traverse:lush_swamp", 76, 87, "F"],
+	    ["traverse:flatlands", 59, 82, "F"]
 	]
 
 [Blocks]
